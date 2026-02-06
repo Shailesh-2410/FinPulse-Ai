@@ -1,0 +1,2 @@
+# FinPulse-Ai
+An AI-powered financial health assessment platform for SMEs, providing creditworthiness analysis, risk assessment, and automated financial forecasting.
